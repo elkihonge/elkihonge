@@ -3,8 +3,8 @@ Weight = input("Enter weight")
 Height = input("Entere height")
 
 #put integers
-weight = int(Weight)
-height = int(Height)
+weight = float(Weight)
+height = float(Height)
 
 #calculation
 bmi_calc = (weight/height**2)
