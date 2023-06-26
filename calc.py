@@ -15,3 +15,7 @@ b = 200
 
 print(y+b)
 print(b*y)
+
+
+example = 5
+print(example**2)
