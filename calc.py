@@ -6,3 +6,12 @@ d = 10
 
 print(a+b)
 print(c*d)
+print(a-b)
+
+
+y = 500
+b = 200
+
+
+print(y+b)
+print(b*y)
