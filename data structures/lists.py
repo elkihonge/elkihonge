@@ -2,7 +2,7 @@
 #You can modify dat - add, remove or update data in a list
 #A list has order
 
-friends = ["Bob", "Marie", "Sue", "Ann", "Kim"]
+friends = ["Bob", "Marie", "Sue", "Ann", "Kim","Jane", "Rob"]
 #friends.append("Roy")
 friends.append("Gill")
 
