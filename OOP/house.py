@@ -1,6 +1,6 @@
 class House:
-    def __init__(self, location, paint, floor, door):
+    def __init__(self, location, paint, owner, door):
         self.location = location
         self.paint = paint
-        self.floor = floor
+        self.owner = owner
         self.door = door
