@@ -1,5 +1,5 @@
 friends = ["Bob", "Marie", "Sue", "Ann", "Kim","Jane", "Rob"]
-for n in friends:
+for i in friends:
     print(i)
     if i == "Ann":
          break
